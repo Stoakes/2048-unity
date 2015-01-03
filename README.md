@@ -15,8 +15,10 @@ Join matching tiles to advance powers of 2. Try to get to 2048!
 
 Added by Stoakes
 ----
-touch devices are now supported
+touch devices are now supported.
+
 UI has been improved and supports different screen width.
+
 Game extended from 2048 to 65536
    
 
