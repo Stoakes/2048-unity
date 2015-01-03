@@ -13,14 +13,12 @@ R to reset.
 Join matching tiles to advance powers of 2. Try to get to 2048!
 
 
-TODO
+Added by Stoakes
 ----
-
-Make the game over button better.         
-Clean up and DRY the code.    
-Use object pooling for the tiles just to.    
-Maybe add slide animation.    
-Maybe add score ticking animation.    
+touch devices are now supported
+UI has been improved and supports different screen width.
+Game extended from 2048 to 65536
+   
 
 
 LICENSE
